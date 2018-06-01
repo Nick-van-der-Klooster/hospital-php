@@ -1,1 +1,1 @@
-[Trello](https://trello.com/b/UYPBkilH/crud-hospital)
+Vergeet niet de config.php voor gebruik aan te passen aan jouw AMPPS omgeving.
